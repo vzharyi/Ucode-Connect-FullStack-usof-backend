@@ -1,0 +1,7 @@
+{
+  "host": "localhost",
+  "user": "vzharyi",
+  "password": "securepass",
+  "database": "usof_vzharyi",
+  "connectionLimit": 10
+}
